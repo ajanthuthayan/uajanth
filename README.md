@@ -1,5 +1,5 @@
 ### Hi there, I'm Ajanth! 👋
 
-- :pencil2:I’m currently working on creating my personal portfolio
-- :notebook: I’m currently learning Advanced Concepts in JavaScript
+- :pencil2:I’m currently planning for my next full-stack project
+- :notebook: I’m currently learning "The Complete Junior to Senior Web Developer Roadmap (2022)" from ZTM Academy
 
