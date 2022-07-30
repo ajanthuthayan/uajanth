@@ -7,6 +7,7 @@
 
 ## :seedling: I’m currently learning 
 - Data Structures and Algorithms 
+- Python
 
 ## :desktop_computer: My Technology Stack
 
