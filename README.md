@@ -3,7 +3,6 @@
 
 ## :telescope: I’m currently working on
 - Building a complete Cinema Management System
-- 
 
 ## :seedling: I’m currently learning 
 - TypeScript
